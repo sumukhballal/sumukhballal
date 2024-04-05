@@ -8,6 +8,7 @@ I am Sumukh, a Software Engineer at Amazon.
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src = "https://img.shields.io/badge/-RUST-1572B6?style=flat&logo=rust&logoColor=orange">
 
 #### Frameworks I like to work with
 
