@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sumukh, a Software Engineer at Amazon.
+I am Sumukh, a Software Engineer at Amazon. I am a tinkerer, developer and have varied interests & expereince across Operating systems, Inertial Navigation systems, Embedded Systems & Dev productivity tools! 
 
 #### Languages I mostly use
 
