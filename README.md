@@ -24,8 +24,8 @@ I am Sumukh, a Software Engineer at Amazon. I am a tinkerer, developer and have 
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge=flat&logo=redis&logoColor=white">
 
 <div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumukhballal&langs_count=9&theme=tokyonight&layout=compact" alt="Languages" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sumukhballal&show_icons=true&theme=synthwave" alt="Sumukh :: Profile Stats" /></p>
+<p align="center"><img src="https://stats-card-umber.vercel.app/api/top-langs/?username=sumukhballal&langs_count=9&theme=tokyonight&layout=compact" alt="Languages" /></p>
+<p align="center"><img src="https://stats-card-umber.vercel.app/api?username=sumukhballal&show_icons=true&theme=synthwave" alt="Sumukh :: Profile Stats" /></p>
  </div>
 
 
@@ -38,6 +38,3 @@ I am Sumukh, a Software Engineer at Amazon. I am a tinkerer, developer and have 
   </a>
  
 </p>
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{sumukhballal}/count.svg" alt="Sumukh :: Visitor's Count" /></p>
